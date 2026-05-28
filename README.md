@@ -1,1 +1,3 @@
+Interactive Company Showcase Webpage is a frontend web development project created using HTML5 and External CSS. This project is inspired by modern brand discovery catalogs and interactive gallery modules to display corporate identities. The webpage demonstrates different CSS concepts such as card layout architectures, simple selectors, class-based element targeting, nested combinators, explicit container borders, hover effect interactions, floating element alignments, and background gradient configurations applied behind paragraph and structure blocks.
+
 Live Demo: https://vaishnavididewar74-png.github.io/Hover/
